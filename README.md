@@ -20,4 +20,4 @@ to identify pricing trends, market patterns and best value destinations.
 
 ## Dashboard Preview
 ### Market Overview
-![Market Overview](image.png)
+![Market Overview](market-overview.png)
